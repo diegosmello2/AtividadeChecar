@@ -1,0 +1,11 @@
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\bin\Debug\ATVDEnterTheMatrix.exe.config
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\bin\Debug\ATVDEnterTheMatrix.exe
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\bin\Debug\ATVDEnterTheMatrix.pdb
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.csproj.AssemblyReference.cache
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.Form1.resources
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.Properties.Resources.resources
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.csproj.GenerateResource.cache
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.csproj.CoreCompileInputs.cache
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.exe
+C:\Users\diego.lsmello\Documents\UC12\ATVDEnterTheMatrix\ATVDEnterTheMatrix\obj\Debug\ATVDEnterTheMatrix.pdb
